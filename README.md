@@ -24,3 +24,15 @@ Modifier.explodeOnClick(color = backColor,
               // To some action
           })
 ```
+
+### color
+Set the background color.
+
+```kotlin
+modifier = Modifier.squishy(color=Color.Black)
+
+### borderColor
+Set the border color.
+
+```kotlin
+modifier = Modifier.squishy(color = Color.Transparent, borderColor = Color.Black)

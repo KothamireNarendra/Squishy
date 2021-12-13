@@ -1,5 +1,7 @@
 # Squishy
 
+![animation](https://github.com/KothamireNarendra/Squishy/blob/main/Squishy.gif)
+
 ## Usage
 
 Add `squishy()` modifier on your composable element.
